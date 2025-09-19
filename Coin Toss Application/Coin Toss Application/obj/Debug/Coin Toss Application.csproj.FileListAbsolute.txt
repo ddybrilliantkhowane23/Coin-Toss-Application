@@ -1,0 +1,10 @@
+E:\C# Practises\Coin Toss Application\Coin Toss Application\bin\Debug\Coin Toss Application.exe.config
+E:\C# Practises\Coin Toss Application\Coin Toss Application\bin\Debug\Coin Toss Application.exe
+E:\C# Practises\Coin Toss Application\Coin Toss Application\bin\Debug\Coin Toss Application.pdb
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin Toss Application.csproj.AssemblyReference.cache
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin_Toss_Application.Form1.resources
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin_Toss_Application.Properties.Resources.resources
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin Toss Application.csproj.GenerateResource.cache
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin Toss Application.csproj.CoreCompileInputs.cache
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin Toss Application.exe
+E:\C# Practises\Coin Toss Application\Coin Toss Application\obj\Debug\Coin Toss Application.pdb
